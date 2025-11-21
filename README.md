@@ -1,2 +1,2 @@
-# akarba-ar-2
+# akarlg
 arıtma sunum ve kategorisi
